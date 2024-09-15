@@ -1,3 +1,16 @@
+# Vocabulary Trainer (German-Farsi)
+
+Welcome to the Vocabulary Trainer project! This is a beginner-level project aimed at learning and practicing JavaScript, SvelteKit and of course vocabulary, specifically German-Farsi. The goal is to create a simple application to help users learn and test their vocabulary skills.
+
+## Project Overview
+
+The initial version of this project focuses on German-Farsi (Finglisch) vocabulary. Future versions will expand to include multiple languages to enhance the learning experience.
+
+## Contributing
+
+Everyone is welcome to contribute to this project! Whether you are an experienced developer or a beginner looking to learn, your help is greatly appreciated. If you want to contribute, please follow the guidelines below:
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).

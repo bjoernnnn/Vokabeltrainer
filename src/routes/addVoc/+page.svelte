@@ -39,12 +39,12 @@
 				<form on:submit="{addVocabulary}; return false"> //TODO:funktioniert nicht
 					<div class="mdl-textfield mdl-js-textfield">
 						<input class="mdl-textfield__input" type="text" id="germanText" />
-						<label class="mdl-textfield__label" for="sample1">Deutsch...</label>
+						<label class="mdl-textfield__label" for="sample1">Deutsch</label>
 					</div>
 				<!-- Simple Textfield -->
 					<div class="mdl-textfield mdl-js-textfield">
 						<input class="mdl-textfield__input" type="text" id="farsiText" />
-						<label class="mdl-textfield__label" for="sample1">Farsi...</label>
+						<label class="mdl-textfield__label" for="sample1">Farsi</label>
 					</div>
 				</form>
 				<!-- Colored FAB button -->
