@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+  // VERKNÜFUNGEN
+
+    <style>
+    </style>
+
+</head>
+
+<body>
+    <main>
+    </main>
+</body>
+
+</html>
